@@ -1,5 +1,7 @@
 package shapes
 
+// Everything here returns *structs*
+
 type Square struct {
 	sideLength int32
 }
